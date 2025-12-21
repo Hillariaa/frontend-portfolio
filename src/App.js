@@ -221,8 +221,8 @@ export default function App() {
           <div className="contactCard">
             <div>
               <div className="contactLabel">Email</div>
-              <a className="contactValue" href="mailto:YOUR_EMAIL_HERE">
-                YOUR_EMAIL_HERE
+              <a className="contactValue" href="hilariezee@gmail.com">
+                hilariezee@gmail.com
               </a>
             </div>
 
