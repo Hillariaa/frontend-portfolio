@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://hillariaa.github.io/portfolio",
+  "name": "frontend-portfolio",
+  "homepage": "https://hillariaa.github.io/frontend-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
